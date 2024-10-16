@@ -1,5 +1,5 @@
 # TASK: Vocabulary List Repo
-###Web Development Task 001
+### Web Development Task 001
 
 This repository contains the files and instructions for completing Web Development Task 001. Follow the steps below to clone the repository and get started.
 
