@@ -7,8 +7,9 @@ This repository contains the files and instructions for completing Web Developme
 
 Before you begin, ensure you have the following installed:
 
-- **Git**: Version control system to clone and manage the repository.
-- **Code Editor**: Any code editor like [Visual Studio Code](https://code.visualstudio.com/)
+- **Git:** Version control system to clone and manage the repository.
+- **GitHub:** make sure you have an account to sync your repositories to.
+- **Code Editor:** Any code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Cloning the Repository
 
