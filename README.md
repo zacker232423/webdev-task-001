@@ -1,4 +1,4 @@
-# TASK: Vocabulary List Repo
+# TASK: Vocabulary List Repository
 
 ### Web Development Task 001
 
